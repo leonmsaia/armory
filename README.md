@@ -1,6 +1,7 @@
 # 🛡️ Armory Module for BlizzCMS v2
 
 The **Armory** module allows users to browse and inspect all characters from the game server. It provides a public, detailed view of each character including stats, equipment, race, class, level, and more.
+The **Armory** module is an add-on for [BlizzCMS v2](https://github.com/WoW-CMS/BlizzCMS)
 
 ## 📦 Features
 
