@@ -1,0 +1,1 @@
+Prueba controlada de escritura desde Agency MCP.
